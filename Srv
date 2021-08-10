@@ -1,2 +1,8 @@
-<servers> <server name="TRANSnet Server" ca="1" continent_code="EU" country="Silahkan Klik di sini" country_code="DE" ip="mumble-de.cleanvoice.com" port="38979" region="Bayern" url="http://mumble.sourceforge.net/"/>
+
+<servers>
+
+<server name=" 🇮🇩 DRN SEKOLAH​" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="202.157.186.91" port="64780" region="ID" url="https://radio.nasional.online" token="null"/>
+
+<server name=" 🇮🇩 PERCOBAAN" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="202.157.187.112" port="64567" region="ID" url="https://radio.nasional.online" token="null"/>
+
 </servers>
