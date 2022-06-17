@@ -1,1 +1,1 @@
-<servers> <server name="01-INDOnet Server" ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="mb.puma-network.t" port="56738" region="ID" url="http://radio.malagafm2.wapath.com" token=""/> </servers>
+<servers> <server name="01-TRANSnet Server" ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="luka.mumble.gg" port="10002" region="ID" url="http://radio.malagafm2.wapath.com" token=""/> </servers>
